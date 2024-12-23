@@ -1,1 +1,1 @@
-
+from .bounty_poster import BountyPoster
